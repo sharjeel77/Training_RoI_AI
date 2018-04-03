@@ -1,0 +1,35 @@
+Traing types (Framework design will be based on the type):
+	Orientataion
+	
+Procedural
+	
+Compliance
+	
+Behavioral
+	
+Psychomotor
+
+Framework configuration steps:
+
+1. Add Business Need
+
+
+2. Add Training Plan (training hours, cost per employee per training session, etc.) 
+
+
+3. Add Training Outcome 
+
+
+4. Add Training Metrics (To be derived from training outcome. Must be aligned to existing data points being tracked)
+
+
+5. Add Data Points to Measure Training Metrics
+
+
+6. Configure Data Points (data input source etc.)
+
+
+7. Select Reporting Frequency
+
+
+8. Start
